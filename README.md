@@ -2,7 +2,7 @@
 Hey! My name is Cody. I'm a high school developer trying to learn fullstack and improve my skills.  
 I'm constantly working on new projects and testing any ideas that I have! (Obligatory I use arch btw).
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BraveKnight6750&theme=catppuccin-macchiato&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=BraveKnight6750&theme=catppuccin-mocha&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)  
 
 
 ## My Programming Languages:  
