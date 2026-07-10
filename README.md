@@ -8,10 +8,10 @@ I'm constantly working on new projects and testing any ideas that I have! (Oblig
 ## My Programming Languages:  
 
 ### Known:
-[![My Programming Languages](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=java,py,lua)](https://skillicons.dev)
 
 ### Learning:
-[![My Programming Languages](https://skillicons.dev/icons?i=html,js,ts,css,qt)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=cpp,html,js,ts,css,qt)](https://skillicons.dev)
 
 ## My Skills:  
 
@@ -19,7 +19,7 @@ I'm constantly working on new projects and testing any ideas that I have! (Oblig
 [![My Skills](https://skillicons.dev/icons?i=linux,arch)](https://skillicons.dev)
 
 ### Other:
-[![My Skills](https://skillicons.dev/icons?i=git,neovim,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,neovim,md,vim)](https://skillicons.dev)
 
 ## Projects:
 
