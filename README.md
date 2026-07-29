@@ -11,7 +11,7 @@ I'm constantly working on new projects and testing any ideas that I have! (Oblig
 [![My Programming Languages](https://skillicons.dev/icons?i=java,py,lua)](https://skillicons.dev)
 
 ### Learning:
-[![My Programming Languages](https://skillicons.dev/icons?i=cpp,html,js,ts,css,qt)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=cpp,html,js,ts,css,rust,qt)](https://skillicons.dev)
 
 ## My Skills:  
 
